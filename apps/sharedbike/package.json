@@ -1,0 +1,12 @@
+{
+  "name": "shared_bike",
+  "version": "1.0.0",
+  "description": "An skill that lets you know what the situation of a bike station is",
+  "main": "index.js",
+  "author": "Victor Neves <https://github.com/victoraldir> (https://about.me/victoraldir)",
+  "license": "MIT",
+  "alexa": {},
+  "dependencies": {
+    "alexa-app": "^2.1.0"
+  }
+}
