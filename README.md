@@ -4,3 +4,7 @@ This is an Alexa Skill that informs the situation of bikes stations of bike shar
 
 
 <img width="40%" src="https://user-images.githubusercontent.com/881964/29786813-7cd48f3a-8c24-11e7-8e3d-0e2f9e975987.png" />
+
+## URL
+
+https://sharedbikeskill.herokuapp.com/alexa/shared_bikes
